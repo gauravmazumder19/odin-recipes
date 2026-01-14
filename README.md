@@ -4,6 +4,9 @@ This is my **first basic HTML project** made while learning web development from
 
 It is a simple website that shows a list of recipes and links to their individual pages.
 
+## Live Demo
+
+https://gauravmazumder19.github.io/odin-recipes/
 ---
 
 ## What I Learned
@@ -42,8 +45,5 @@ This project was created to practice:
 ---
 
 ## Credits
-
-Project idea from **The Odin Project – Foundations Course**
-
 
 Project idea from **The Odin Project – Foundations Course**
